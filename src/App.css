@@ -1,0 +1,180 @@
+
+
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.Content{
+  display: flex;
+
+}
+.checked {
+  color: orange;
+}
+.top{
+  display: flex;
+  /*justify-content: space-around*/
+}
+
+body{
+  width:90%;
+  padding-top: 100px;
+  padding-left: 200px;
+}
+.entry{
+  width:500px;
+  height:40px
+}
+
+.button{
+  height:40px;
+  width:80px;
+  border:solid  #ababab 2px;
+  margin-right: 200px;
+
+}
+
+.Productive{
+  width:300px;
+display:flex;
+justify-content: space-around;
+flex-direction: row;
+height:40px;
+border:solid  #ababab 2px;
+margin-right: 50px;
+}
+
+.checked {
+  color: orange;
+  
+}
+.fa-spinner{
+  font-size: 100px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.spin{
+  text-align: center;
+}
+
+.Rate{
+  display: flex;
+  justify-content: flex-end
+}
+.ajout{
+  width:300px;
+
+margin-top: 100px;
+height:300px;
+border:solid  #ababab 2px;
+
+}
+
+.r{
+  font-size:40px;
+  cursor:pointer;
+}
+
+
+.Product-info{
+width:300px;
+
+margin-top: 100px;
+height:300px;
+border:solid  #ababab 2px;
+
+}
+
+.product-img{
+  margin-top:20px;
+  height:130px;
+  width:130px;
+}
+
+.nombre{
+  
+  height:30px;
+  width:80px;
+  margin-top: -12px;
+  padding:10px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.Product-text{
+  margin-top:30px;
+  margin-bottom:60px;
+}
+
+.Product-parag{
+  margin-top:30px;
+  font-family: 'Poppins', sans-serif;
+
+  
+}
+
+.price{
+  margin-top: 75px;
+}
+
+.Total-text{
+  font-family: 'Lato', sans-serif;
+
+}
+
+.Product-p{
+  margin-top:30px;
+  margin-left:30px;
+  color:#ababab;
+  font-family: 'Lato', sans-serif;
+}
+
+
+
+
+.logo{
+  margin-top:60px;
+}
+
+.a{
+  text-decoration: none;
+}
+.btn{
+  background-color: white;
+  border:none;
+  font-size:45px;
+}
+
+
+.bt{
+  background-color: white;
+  border:none;
+  margin-top: -20px;
+  
+}
+
+.liste{
+
+display:flex;
+justify-content: space-around;
+align-self: center;
+
+}
+
+
+.n{
+  margin-top: 70px;
+  height: 30px;
+  width: 80px;
+  margin-bottom: 25px;
+}
+
+
+
+
+
